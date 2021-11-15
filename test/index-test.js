@@ -1,4 +1,4 @@
-describe('createStore()', () => {
+  describe('createStore()', () => {
   let store;
 
   beforeEach(function(){
